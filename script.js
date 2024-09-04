@@ -1,0 +1,1 @@
+document.write("this is ti show the earthrealm rules");
